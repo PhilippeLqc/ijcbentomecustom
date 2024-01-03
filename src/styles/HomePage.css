@@ -171,7 +171,6 @@ header {
         font-size: 16px;
         line-height: 1.7;
         text-align: center;
-        /* margin: 2rem; */
     }
     
     .presentation .Avatar h4 {
@@ -187,7 +186,7 @@ header {
         width: 100%;
         height: auto;
         scroll-behavior: smooth;
-        /* margin: 2rem; */
+
     }
 
     .store {
@@ -198,7 +197,7 @@ header {
         width: 100vw;
         height: 100vh;
         scroll-behavior: smooth;
-        /* margin: 2rem; */
+
     }
     
     .store footer {

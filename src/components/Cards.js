@@ -4,6 +4,7 @@ import "../styles/Cards.css";
 import ItemCards from "./ItemCards";
 
 function Cards() {
+  //Could use a real db (MongoDB or else) to give flexibility and maybe make an admin page to add new items. Due to financial cut, we will use a const for now.
   const items = [
     {
       name: "Tous Imparfaits",
