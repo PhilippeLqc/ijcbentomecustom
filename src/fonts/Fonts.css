@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "workSansExtraBold";
+    src: local("WorkSans-ExtraBold"), 
+    url("../fonts/WorkSans-ExtraBold.ttf") 
+    format("truetype");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "workSansRegular";
+    src: local("WorkSans-Regular"),
+    url("../fonts/WorkSans-Regular.ttf")
+    format("truetype");
+}
+
+@font-face {
+    font-family: "workSansLight";
+    src: local("WorkSans-Light"),
+    url("../fonts/WorkSans-Light.ttf")
+    format("truetype");
+}

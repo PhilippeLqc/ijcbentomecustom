@@ -1,0 +1,34 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #BF1F31;
+    color: white;
+    height: 100vh;
+    font-family: workSansExtraBold;
+
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: workSansExtraBold;
+}
+
+@media screen and (max-width: 768px) {
+    .main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        background-color: #BF1F31;
+        color: white;
+        height: 120vh;
+        font-family: workSansExtraBold;
+    }
+    h1 {
+        font-size: 2rem;
+        font-family: workSansExtraBold;
+    }
+    
+}

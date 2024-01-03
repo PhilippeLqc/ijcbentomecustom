@@ -1,0 +1,32 @@
+.ItemTitle {
+    font-weight: 600;
+    margin: 1rem;
+    padding: 0;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: flex-end;
+    align-self: flex-end;
+}
+
+.ItemDescription {
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: flex-end;
+    align-self: flex-end;
+}
+
+.CheckButton{
+    border-radius: 5px;
+    font-size: 1rem;
+    margin: 2rem;
+    display: flex;
+    justify-content: flex-end;
+    align-self: flex-end;
+}
